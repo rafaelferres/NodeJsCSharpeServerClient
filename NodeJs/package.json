@@ -1,0 +1,11 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "description": "Servidor em NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Ferrés",
+  "license": "ISC"
+}

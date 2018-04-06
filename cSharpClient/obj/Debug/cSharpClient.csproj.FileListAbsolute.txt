@@ -1,0 +1,7 @@
+C:\Rafael\GitHub\NodeJsCSharpeServerClient\cSharpClient\cSharpClient\bin\Debug\cSharpClient.exe.config
+C:\Rafael\GitHub\NodeJsCSharpeServerClient\cSharpClient\cSharpClient\bin\Debug\cSharpClient.exe
+C:\Rafael\GitHub\NodeJsCSharpeServerClient\cSharpClient\cSharpClient\bin\Debug\cSharpClient.pdb
+C:\Rafael\GitHub\NodeJsCSharpeServerClient\cSharpClient\cSharpClient\obj\Debug\cSharpClient.csprojResolveAssemblyReference.cache
+C:\Rafael\GitHub\NodeJsCSharpeServerClient\cSharpClient\cSharpClient\obj\Debug\cSharpClient.csproj.CoreCompileInputs.cache
+C:\Rafael\GitHub\NodeJsCSharpeServerClient\cSharpClient\cSharpClient\obj\Debug\cSharpClient.exe
+C:\Rafael\GitHub\NodeJsCSharpeServerClient\cSharpClient\cSharpClient\obj\Debug\cSharpClient.pdb
